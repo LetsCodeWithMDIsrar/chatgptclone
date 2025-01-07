@@ -1,0 +1,40 @@
+import { StyleSheet } from 'react-native';
+
+export const styles = StyleSheet.create({
+    container:{
+        width:'100%',
+        flexDirection:'row',
+        alignItems:'center',
+        justifyContent:'space-between',
+        paddingHorizontal:20,
+        position:'absolute',
+        top:60,
+    },
+    menuIcon:{
+        height:25,
+        width:25,
+        resizeMode:'contain',
+    },
+    gptBadge:{
+        marginLeft:40,
+    },
+    rightWrapper:{
+        flexDirection:'row',
+        alignItems:'center',
+        gap:20,
+    },
+    pencilIcon:{
+        height:24,
+        width:24,
+    },
+    threeDotIconWrapper:{
+        height:24,
+        width:24,
+        transform:[{rotate:'90deg'}],
+    },
+    threeDotIcon:{
+        height:'100%',
+        width:'100%',
+       resizeMode:'contain',
+    },
+});

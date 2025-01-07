@@ -1,0 +1,34 @@
+# Node modules
+/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native build folders
+/android/build/
+/ios/build/
+/ios
+/android
+/vendor
+
+# Dependency directories
+/ios/Pods/
+
+# CocoaPods
+/ios/Podfile.lock
+/ios/Podfile.lock/
+
+# macOS Finder files
+.DS_Store
+
+# Environment files
+.env
+.env.local
+
+# Expo
+.expo/
+
+# Metro bundler cache
+.metro/
