@@ -77,3 +77,8 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+## 🎬 Watch Tutorial for ChatGPT Clone with React Native | Step-by-Step Tutorial
+
+[![Watch the video](https://img.youtube.com/vi/Eyf5bCXX7QA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Eyf5bCXX7QA)
+
